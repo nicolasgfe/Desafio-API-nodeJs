@@ -15,6 +15,34 @@
       "when": 1755039781603,
       "tag": "0001_absurd_nighthawk",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755636919182,
+      "tag": "0002_typical_carlie_cooper",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755636975369,
+      "tag": "0003_ancient_arachne",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1755640499977,
+      "tag": "0004_futuristic_spiral",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1755640868706,
+      "tag": "0005_messy_lockjaw",
+      "breakpoints": true
     }
   ]
 }
