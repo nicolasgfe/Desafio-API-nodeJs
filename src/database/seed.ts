@@ -19,9 +19,6 @@ async function seed() {
 		{ courseId: coursesInsert[0].id, userId: usersInsert[1].id },
 		{ courseId: coursesInsert[1].id, userId: usersInsert[2].id },
 	])
-
-
-
 }
 
 seed()
