@@ -43,6 +43,13 @@
       "when": 1755640868706,
       "tag": "0005_messy_lockjaw",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1755711030624,
+      "tag": "0006_special_wonder_man",
+      "breakpoints": true
     }
   ]
 }

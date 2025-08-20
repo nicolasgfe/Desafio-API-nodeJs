@@ -1,8 +1,9 @@
 POST http://localhost:3333/courses
 Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjNDBmZDlkOS05MTJjLTQxNDktYjk3ZS01MzQwYWEwNmRkZTkiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1NTcyMDc2Nn0.xTrfKiep_LGs3kSu_FD2IALnr_Dwx58uMNrHdXS6ovQ
 
 {
-  "title": "Curso de Node 542"
+  "title": "Curso de React"
 }
 
 ###
@@ -10,4 +11,16 @@ Content-Type: application/json
 GET http://localhost:3333/courses?
 ###
 
-GET http://localhost:3333/courses/4754367c-55c6-42ec-9150-6e68622c4da4
+GET http://localhost:3333/courses/c995bc32-3965-475e-a04d-ee1528a5f3e6
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjNDBmZDlkOS05MTJjLTQxNDktYjk3ZS01MzQwYWEwNmRkZTkiLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTc1NTcxNzcxMX0.nGL0VhXsqKpeOtt8u7dyHZEYsawZuzODlAxJ2Kaa7a0
+
+### 
+
+POST http://localhost:3333/sessions
+Content-Type: application/json
+
+{
+  "email": "Yango57@gmail.com",
+  "password": "123456"
+}
+
